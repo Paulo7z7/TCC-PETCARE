@@ -16,6 +16,7 @@ type
     Label3: TLabel;
     BtEnt: TButton;
     BtFin: TButton;
+    Button1: TButton;
     procedure BtEntClick(Sender: TObject);
   private
     { Private declarations }
